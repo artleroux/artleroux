@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Arty 👋
+
+I'm a Web3 freelancer intested in Etheream (& EVM Compatible Blockchains), Tezos, and Cardano.
 
 <!--
 **artleroux/artleroux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
